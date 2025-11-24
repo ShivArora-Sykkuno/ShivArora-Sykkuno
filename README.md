@@ -1,5 +1,6 @@
 <div align="center">
 	<img height="150" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" />
+	<br>
 </div> 
 <div align="center">
 	<a href = "https://leetcode.com/u/Shiv-Sykkuno/">
@@ -15,10 +16,11 @@
 		<img src="https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139" height="25" alt="Portfolio logo" />
 	</a>
 </div> 
+<br>
 <div align="center">
 	<img src="https://visitor-badge.laobi.icu/badge?page_id=ShivArora-Sykkuno.ShivArora-Sykkuno" />
 </div>
-
+<br>
 
 <div align="center">
   <img src="assets/banner.gif" alt="Shiv Arora Banner" width="100%" />
@@ -60,11 +62,11 @@
 					<img width="12" />
 					<img src="assets/opencv.png" height="40" alt="opencv logo" />
 					<img width="12" />
-					<img src="assets/langchain.png" height="140" alt="langchain logo" />
+					<img src="assets/langchain.png" height="40" alt="langchain logo" />
 					<img width="12" />
-					<img src="assets/n8n.png" height="140" alt="n8n logo" />
+					<img src="assets/n8n.png" height="40" alt="n8n logo" />
 					<img width="12" />
-					<img src="assets/langgraph.svg" height="140" alt="langgraph logo" />
+					<img src="assets/langgraph.svg" height="40" alt="langgraph logo" />
 					<img width="12" />
 					<img src="assets/milvus.svg" height="40" alt="milvus logo" />
 					<!-- <img width="12" /> -->
