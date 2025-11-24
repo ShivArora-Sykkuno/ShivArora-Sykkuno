@@ -1,6 +1,6 @@
 <div align="center">
 	<img height="150" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" />
-</div> ### 
+</div> 
 <div align="center">
 	<a href = "https://leetcode.com/u/Shiv-Sykkuno/">
 		<img src="https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=#d16c06" height="25" alt="LeetCode logo" />
@@ -14,25 +14,25 @@
 	<a href = "https://shiv-arora.vercel.app/">
 		<img src="https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139" height="25" alt="Portfolio logo" />
 	</a>
-</div> ### 
+</div> 
 <div align="center">
 	<img src="https://visitor-badge.laobi.icu/badge?page_id=ShivArora-Sykkuno.ShivArora-Sykkuno" />
-</div> ### 
+</div>
 
 
 <div align="center">
   <img src="assets/banner.gif" alt="Shiv Arora Banner" width="100%" />
 </div>
 
- ### 
-<h3 align="left">👩‍💻 About Me</h3> ### 
+  
+<h3 align="left">👩‍💻 About Me</h3>
 <p align="left"> I'm Shiv Arora from India, exploring the world of Artificial Intelligence one model at a time.
 	<br>
 		<br> - 🔭 I’m working as an AI/ML developer building intelligent systems and creative solutions.
 			<br> - 📚 I'm currently learning deep learning tricks, MLOps magic, and everything that makes AI actually work.
 				<br> - ⚡ In my free time I train models, break them, fix them again, and occasionally touch grass. 
-				</p> ### 
-				<h3 align="left">🛠 Language and tools</h3> ### 
+				</p>  
+				<h3 align="left">🛠 Language and tools</h3>  
 				<div align="left">
 					<img src="assets/python.png" height="40" alt="python logo" />
 					<img width="12" />
@@ -60,17 +60,17 @@
 					<img width="12" />
 					<img src="assets/opencv.png" height="40" alt="opencv logo" />
 					<img width="12" />
-					<img src="assets/langchain.svg" height="140" alt="langchain logo" />
+					<img src="assets/langchain.png" height="140" alt="langchain logo" />
 					<img width="12" />
-					<img src="assets/n8n.svg" height="140" alt="n8n logo" />
+					<img src="assets/n8n.png" height="140" alt="n8n logo" />
 					<img width="12" />
 					<img src="assets/langgraph.svg" height="140" alt="langgraph logo" />
 					<img width="12" />
 					<img src="assets/milvus.svg" height="40" alt="milvus logo" />
 					<!-- <img width="12" /> -->
 					<!-- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-plain-wordmark.svg" height="40" alt="docker logo" /> -->
-				</div> ### 
-				<h3 align="left">🔥 My Stats :</h3> ### 
+				</div>  
+				<h3 align="left">🔥 My Stats :</h3>  
 				<div align="center">
 					<img src="https://streak-stats.demolab.com?user=ShivArora-Sykkuno&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph" />
                     <br><br>
