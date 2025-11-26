@@ -11,6 +11,12 @@
 	</a>
 	<a href = "https://www.instagram.com/stoned.irl/">
 		<img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" height="25" alt="Instagram logo" />
+	
+	</a>
+	<a href = "https://discord.gg/ktFUwe5DXU">
+		<img src="https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white" height="25" alt="Discord logo" />
+	</a>
+	
 	</a>
 	<a href = "https://shiv-arora.vercel.app/">
 		<img src="https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139" height="25" alt="Portfolio logo" />
