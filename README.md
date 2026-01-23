@@ -85,7 +85,7 @@
 <h3 align="left">🔥 My Stats :</h3>
 
 <div align="center">
-  <img src="assets/streak.svg" height="220" alt="streak graph" />
+  <img src="https://github-readme-stats-fast.vercel.app/api/streak?username=ShivArora-Sykkuno&theme=dark" alt="Streak Card" />
 </div>
 
 <br><br>
