@@ -82,14 +82,10 @@
 	<img src="assets/milvus.svg" height="40" alt="milvus logo" />
 </div>  
 
-<h3 align="left">🔥 My Stats :</h3>  
-<div align="center">
-	<!-- ✅ FIXED STREAK STATS -->
-	<img src="https://streak-stats.demolab.com?user=ShivArora-Sykkuno&theme=dark" height="220" alt="streak graph" />
-	<br><br>
+<h3 align="left">🔥 My Stats :</h3>
 
-	<!-- ✅ FIXED TROPHY STATS -->
-	<img src="https://github-profile-trophy.vercel.app/?username=ShivArora-Sykkuno&theme=dracula&margin-w=8" height="150" alt="trophy graph" />
+<div align="center">
+  <img src="assets/streak.svg" height="220" alt="streak graph" />
 </div>
 
 <br><br>
