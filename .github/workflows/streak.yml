@@ -1,0 +1,29 @@
+name: Generate Streak Stats
+
+on:
+  schedule:
+    - cron: "0 0 * * *"
+  workflow_dispatch:
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repo
+        uses: actions/checkout@v4
+
+      - name: Generate Streak Stats
+        uses: DenverCoder1/github-readme-streak-stats@master
+        with:
+          user: ShivArora-Sykkuno
+          theme: dark
+          hide_border: false
+          output: assets/streak.svg
+
+      - name: Commit & push
+        run: |
+          git config user.name github-actions
+          git config user.email github-actions@github.com
+          git add assets/streak.svg
+          git commit -m "Update streak" || echo "No changes"
+          git push
